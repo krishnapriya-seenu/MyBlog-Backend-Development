@@ -1,2 +1,2 @@
-# MyBlog-Backend-Development
-A MyBlog web application built using HTML, CSS, JavaScript, Node.js and Express.js with REST API integration for user registration, login and blog management.
+# codomax-module-1-blog-app
+A basic Blog Application built using HTML, CSS, and JavaScript as part of Codomax Module 1. Includes Home, Login, Register, Dashboard, and Create Blog pages with basic form validation and local Storage functionality.
